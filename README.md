@@ -8,7 +8,7 @@ data/TaskXX_Organ/images...
 ```
 Example:
 
-![img.png](img.png)
+![img.png](assets/img.png)
 
 Create a new conda environment
 ```
