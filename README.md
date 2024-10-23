@@ -29,6 +29,7 @@ Run App
 ```
 marimo run notebook.py
 ```
+![img.png](assets/img2.png)
 
 Edit Notebook
 ```
