@@ -29,7 +29,8 @@ Run App
 ```
 marimo run notebook.py
 ```
-![img.png](assets/img2.png)
+
+![demo](./assets/demo.gif)
 
 Edit Notebook
 ```
